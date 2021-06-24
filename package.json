@@ -1,0 +1,23 @@
+{
+  "name": "pokeart",
+  "version": "1.0.0",
+  "description": "Laisse aller ton imagination et crée tes propres pokemons!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimaKande/PokeArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimaKande/PokeArt/issues"
+  },
+  "homepage": "https://github.com/IbrahimaKande/PokeArt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
